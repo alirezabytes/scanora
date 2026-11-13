@@ -1,0 +1,62 @@
+name: scanora
+description: "Scanora (Smart Document Scanner, Text Extractor, Multi-Format Converter, Notes & Vision Assistant)"
+publish_to: 'none'
+version: 2.4.23+30
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+  flutter: ">=3.47.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  provider: ^6.1.2
+  http: any
+  crypto: ^3.0.8
+  google_sign_in: ^7.2.0
+  image_picker: any
+  file_picker: any
+  image: any
+  syncfusion_flutter_pdf: any
+  unorm_dart: ^0.3.2
+  xml: ^7.1.0
+  archive: ^4.5.2
+  share_plus: ^13.3.1
+  flutter_onnxruntime: ^1.9.0
+  hotkey_manager: ^0.2.3
+  pasteboard: ^0.6.0
+  camera: ^0.12.2
+  camera_windows: any
+  record: ^7.1.2
+  path_provider: ^2.1.6
+  ffi: ^2.2.0
+  google_mlkit_image_labeling: ^0.16.1
+  sherpa_onnx: ^2.0.1
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  camera_platform_interface: ^2.15.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/licenses/espeak-ng.txt
+    - assets/licenses/sonic.txt
+    - assets/licenses/bina-rizehpizeh.txt
+    - assets/fonts/Vazirmatn-Regular.ttf
+    - assets/fonts/OFL.txt
+    - assets/tessdata/
+    - assets/tessdata_best/
+    - assets/models/
+    - assets/models/whisper_small/
+    - assets/models/whisper/
+    - assets/
+    - assets/audio/

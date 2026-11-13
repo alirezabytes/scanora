@@ -1,0 +1,40 @@
+[
+  {
+    "file": "upper.png",
+    "expected": "ABC123",
+    "answer": "ABC123"
+  },
+  {
+    "file": "lower.png",
+    "expected": "abc123",
+    "answer": "abc123"
+  },
+  {
+    "file": "digits.png",
+    "expected": "3842",
+    "answer": "3842"
+  },
+  {
+    "file": "math.png",
+    "expected": "14+7=?",
+    "answer": "21"
+  },
+  {
+    "file": "persian.png",
+    "expected": "سلام",
+    "answer": "سلام"
+  },
+  {
+    "file": "persian_digits.png",
+    "expected": "۳۸۴۲",
+    "answer": "3842"
+  },
+  {
+    "file": "mixed.png",
+    "answer": "سلامABC123"
+  },
+  {
+    "file": "persian_math.png",
+    "answer": "21"
+  }
+]

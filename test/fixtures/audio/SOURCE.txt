@@ -1,0 +1,3 @@
+Official sherpa-onnx Whisper example (LibriSpeech):
+https://huggingface.co/csukuangfj/sherpa-onnx-whisper-small/blob/8f3c18b358db4d1f2fc1eae49d75cd20989e4309/test_wavs/0.wav
+Reference: AFTER EARLY NIGHTFALL THE YELLOW LAMPS WOULD LIGHT UP HERE AND THERE THE SQUALID QUARTER OF THE BROTHELS

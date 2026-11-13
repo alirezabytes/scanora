@@ -1,0 +1,10 @@
+{
+  "commit": "ba90c8e9f440ad544f674a790bb5f53878b6ffc5",
+  "source": "https://github.com/espeak-ng/espeak-ng",
+  "sonic_commit": "fbf75c3d6d846bad3bb3d456cbc5d07d9fd8c104",
+  "version": "1.53.0 development snapshot",
+  "sonic": true,
+  "async": false,
+  "exe_bytes": 437248,
+  "sha256": "eae4d0c6595c8710e9ce9ae501a73cc6034f49390ac81a381640bbd541aba4e2"
+}

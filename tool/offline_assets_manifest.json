@@ -1,0 +1,193 @@
+{
+  "version": "2.4.20+27",
+  "note": "Integrity baseline of the delivered bundled files; does not certify recognition accuracy.",
+  "orientation_model_source": "https://github.com/tesseract-ocr/tessdata_fast/blob/main/osd.traineddata",
+  "files": [
+    {
+      "path": "assets/audio/pageFlip.mp3",
+      "bytes": 40036,
+      "sha256": "81d2605077be81564ae17fcdc825c8e6ba05ebca370b663e16e4b5cff8c9c3b8"
+    },
+    {
+      "path": "assets/espeakdata.zip",
+      "bytes": 9211957,
+      "sha256": "a65a7d90fcc24719787bbf278e18c48d6e42d164473ab181db9337834e4bf56c"
+    },
+    {
+      "path": "assets/models/arabic_dict.txt",
+      "bytes": 405,
+      "sha256": "637c27c88512c22089bef927b34ada08f748dc132ac70facd68d8202384c2726"
+    },
+    {
+      "path": "assets/models/arabic_PP-OCRv5_mobile_rec.onnx",
+      "bytes": 7998947,
+      "sha256": "799113ebf267fbe742deb99eb36e8d42c9ddc5291ceacf92add41b4d52a59110"
+    },
+    {
+      "path": "assets/models/arabic_v5_dict.txt",
+      "bytes": 3116,
+      "sha256": "1dc997ab937ab0348b172dbd8a5346426f737958b942ff77c90cb356fde89651"
+    },
+    {
+      "path": "assets/models/bina_0_2_rizehpizeh.onnx",
+      "bytes": 62171040,
+      "sha256": "ae23ca40fb235a03746c7ae411b1d91cc77d4844d70e506f275631681902b9a0"
+    },
+    {
+      "path": "assets/models/bina_0_2_persian_dict.txt",
+      "bytes": 408,
+      "sha256": "28fb97acc0feca48f8243d36f8c3ea80efda25c13c29db1c41002900310b6c8e"
+    },
+    {
+      "path": "assets/licenses/bina-rizehpizeh.txt",
+      "bytes": 11376,
+      "sha256": "3840c5c0c61c294264d2dd77b8777be6ddd90121ef4e0e64abcd22edea581d6e"
+    },
+    {
+      "path": "assets/models/ch_PP-OCRv4_det_infer.onnx",
+      "bytes": 4745517,
+      "sha256": "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9"
+    },
+    {
+      "path": "assets/models/ddddocr_common_old.onnx",
+      "bytes": 13606051,
+      "sha256": "b8f2ad9cbc1f2e3922a6cb9459e30824e7e2467f3fb4fd61420640e34ea0bf68"
+    },
+    {
+      "path": "assets/models/ddddocr_common_old_charset.json",
+      "bytes": 57249,
+      "sha256": "342d871c34fd467420cd39b58a4624b505da53114e77a69b43b48b8a3ee1b24d"
+    },
+    {
+      "path": "assets/models/en_PP-OCRv5_mobile_rec.onnx",
+      "bytes": 7848423,
+      "sha256": "b5f833dfc5d0eb71da397b4efa06ebeee9b431b690a47d6af40d77d8eabc557f"
+    },
+    {
+      "path": "assets/models/en_v5_dict.txt",
+      "bytes": 1416,
+      "sha256": "e025a66d31f327ba0c232e03f407ae8d105e1e709e7ccb3f408aa778c24e70d6"
+    },
+    {
+      "path": "assets/models/ppocrv4_arabic_rec.onnx",
+      "bytes": 8978664,
+      "sha256": "7982d371612785238fd99080cff36354deaec84fdc6ff7da9c82af4243fa0c9a"
+    },
+    {
+      "path": "assets/models/whisper/decoder.int8.onnx",
+      "bytes": 130672026,
+      "sha256": "9759d217388a01b3a4c7c15533201067b48ae819c4daafc8624e64b9409dc02d"
+    },
+    {
+      "path": "assets/models/whisper/encoder.int8.onnx",
+      "bytes": 29120534,
+      "sha256": "0b8fb1304b6109976038efff5ace81720e00386f3ff6b54ee8c75291ca0a1e11"
+    },
+    {
+      "path": "assets/models/whisper/silero_vad.onnx",
+      "bytes": 643854,
+      "sha256": "9e2449e1087496d8d4caba907f23e0bd3f78d91fa552479bb9c23ac09cbb1fd6"
+    },
+    {
+      "path": "assets/models/whisper/tokens.txt",
+      "bytes": 816730,
+      "sha256": "b34b360dbb493e781e479794586d661700670d65564001f23024971d1f2fa126"
+    },
+    {
+      "path": "assets/models/yolov8n.onnx",
+      "bytes": 12834838,
+      "sha256": "65158dad735be799c2466fa15e260c09558080bd530b42a8d0c3d1b419afd8b5"
+    },
+    {
+      "path": "assets/tessdata/eng.traineddata",
+      "bytes": 4113088,
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+    },
+    {
+      "path": "assets/tessdata/fas.traineddata",
+      "bytes": 431500,
+      "sha256": "db1c0a91208aff00d3cf1ed2c1d23f76419afd5f024688b4f71adc3f2ce4a505"
+    },
+    {
+      "path": "assets/tessdata/osd.traineddata",
+      "bytes": 10562727,
+      "sha256": "9cf5d576fcc47564f11265841e5ca839001e7e6f38ff7f7aacf46d15a96b00ff"
+    },
+    {
+      "path": "assets/tessdata_best/eng.traineddata",
+      "bytes": 15400601,
+      "sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba"
+    },
+    {
+      "path": "assets/tessdata_best/fas.traineddata",
+      "bytes": 3325955,
+      "sha256": "99e420969b5ddd2cb135b416316a7ed417c59c4faf9e0d28941348f6448114df"
+    },
+    {
+      "path": "assets/models/whisper_small/encoder.int8.onnx",
+      "bytes": 112442483,
+      "sha256": "4cbe7b22fa9026b843b60a68640c747de05bafb1a11b57edc0e66c232d9f33a9"
+    },
+    {
+      "path": "assets/models/whisper_small/decoder.int8.onnx",
+      "bytes": 262226114,
+      "sha256": "acad50b5c782696e91b55914cc5ab4f756f1532f76e22aa6fc615f39fb69a8ee"
+    },
+    {
+      "path": "assets/fonts/Vazirmatn-Regular.ttf",
+      "bytes": 122752,
+      "sha256": "b69fd4c680b8f3f225feabcc655a2c585d97627b8f5f5c0f9985e894069f3a56"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "bytes": 4391,
+      "sha256": "17e355067c8284f47743a1ee3b1ef7ff684ff0601eda357f9353b10b3016ab31"
+    },
+    {
+      "path": "assets/licenses/espeak-ng.txt",
+      "bytes": 35821,
+      "sha256": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b"
+    },
+    {
+      "path": "assets/licenses/sonic.txt",
+      "bytes": 11560,
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    }
+  ],
+  "multilingual_recognizer_source": "https://huggingface.co/PaddlePaddle/arabic_PP-OCRv5_mobile_rec_onnx/tree/14aaedcd75825982689ecf5cd64ab33ee083215a",
+  "english_handwriting_recognizer_source": "https://huggingface.co/PaddlePaddle/en_PP-OCRv5_mobile_rec_onnx/tree/3fafbc3b5dcf93dd72add9f48368be8a3a2cd33b",
+  "persian_handwriting_recognizer_source": "https://huggingface.co/Reza2kn/Bina-0.2-RizehPizeh/tree/993527413ff74ef6d446df91c715a4e0825abe5b",
+  "speech_small_source": "https://huggingface.co/csukuangfj/sherpa-onnx-whisper-small/tree/8f3c18b358db4d1f2fc1eae49d75cd20989e4309",
+  "pdf_font_source": "https://github.com/rastikerdar/vazirmatn/releases/tag/v33.003",
+  "android_native_libraries": [
+    {
+      "path": "android/app/src/main/jniLibs/arm64-v8a/libttsespeak.so",
+      "bytes": 706480,
+      "sha256": "eca868cb42e52839a7f4c3b06533b029868237eb059d669c9a45300ac602e67c"
+    },
+    {
+      "path": "android/app/src/main/jniLibs/armeabi-v7a/libttsespeak.so",
+      "bytes": 490772,
+      "sha256": "aac8b2ebf9cad165f5e24004afb2484e39da4cce0971d71ee7b1eecc4271ecc0"
+    },
+    {
+      "path": "android/app/src/main/jniLibs/x86/libttsespeak.so",
+      "bytes": 670880,
+      "sha256": "a956fe3bbe00c438523588bb9ca6dcef8de08ad6b882a265676c2917a1364d4a"
+    },
+    {
+      "path": "android/app/src/main/jniLibs/x86_64/libttsespeak.so",
+      "bytes": 744368,
+      "sha256": "2f6e10b97701c12368ed19819b28b4a3c7ae9466d9f265f61c88ab39b83f56a5"
+    }
+  ],
+  "android_native_speech_source": "https://github.com/espeak-ng/espeak-ng/tree/ba90c8e9f440ad544f674a790bb5f53878b6ffc5",
+  "windows_native_files": [
+    {
+      "path": "windows/espeak-ng/espeak-ng.exe",
+      "release_path": "espeak-ng/espeak-ng.exe",
+      "bytes": 437248,
+      "sha256": "eae4d0c6595c8710e9ce9ae501a73cc6034f49390ac81a381640bbd541aba4e2"
+    }
+  ]
+}

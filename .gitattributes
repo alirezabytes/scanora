@@ -1,0 +1,7 @@
+* text=auto
+assets/fonts/OFL.txt -text whitespace=-blank-at-eol
+assets/licenses/bina-rizehpizeh.txt -text whitespace=cr-at-eol
+assets/licenses/espeak-ng.txt -text whitespace=cr-at-eol
+assets/licenses/sonic.txt -text whitespace=cr-at-eol
+assets/models/arabic_v5_dict.txt -text whitespace=cr-at-eol
+assets/models/en_v5_dict.txt -text
